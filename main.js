@@ -72,4 +72,3 @@ while (!salir) {
         alert("Opción no válida");
         }
       }
-      
