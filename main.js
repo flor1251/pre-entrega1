@@ -45,7 +45,7 @@ function verInformes() {
     verInformes()
 
 
-//interaccion con el usuario.
+//interaccion con el usuario, agrego funcion salir para que no se un bucle infinito.
 let salir = false;
 
 while (!salir) {
